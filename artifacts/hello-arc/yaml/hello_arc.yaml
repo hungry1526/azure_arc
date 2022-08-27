@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello Arc Application on Kubernetes! From HJ
+          value: Hello Arc App on K8S! From HJ!
